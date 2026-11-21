@@ -1,5 +1,5 @@
 {
-  "version": "11.66",
-  "url": "https://gitee.com/baymax1021/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.66.apk",
-  "notes": "整合系统美化控制界面；恢复签名校验/XOR编码/安装路径检查；内置背景换图"
+  "version": "11.67",
+  "url": "https://gitee.com/baymax1021/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.67.apk",
+  "notes": "改名为 iQOO美化（桌面名称 / 模块名 / 首页标题）"
 }
