@@ -1,5 +1,5 @@
 {
   "version": "11.66",
-  "url": "https://github.com/baiyishisorry-ai/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.66.apk",
-  "notes": "整合系统美化控制界面；恢复签名校验；内置背景换图"
+  "url": "https://gitee.com/baymax1021/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.66.apk",
+  "notes": "整合系统美化控制界面；恢复签名校验/XOR编码/安装路径检查；内置背景换图"
 }
