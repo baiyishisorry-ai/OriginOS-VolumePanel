@@ -1,5 +1,5 @@
 {
   "version": "11.76",
-  "url": "https://gitee.com/baymax1021/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.76.apk",
+  "url": "https://github.com/baiyishisorry-ai/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.76.apk",
   "notes": "清理冗余代码；系统美化仅保留「设置」；修复设置卡顿"
 }
