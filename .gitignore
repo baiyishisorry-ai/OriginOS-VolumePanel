@@ -1,0 +1,19 @@
+# 构建产物
+build/
+*.apk
+!dist/*.apk
+*.zip
+
+# 密钥与签名（绝对不要提交）
+*.keystore
+*.jks
+*.pem
+*.der
+private*.txt
+keys/
+
+# 本地配置
+.idea/
+*.iml
+log.txt
+*.log
