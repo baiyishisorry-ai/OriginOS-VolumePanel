@@ -1,5 +1,5 @@
 {
-  "version": "11.69",
-  "url": "https://gitee.com/baymax1021/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.69.apk",
-  "notes": "系统美化独立成页，移到「外观」旁边"
+  "version": "11.76",
+  "url": "https://gitee.com/baymax1021/OriginOS-VolumePanel/raw/main/dist/OriginOS-VolumePanel-11.76.apk",
+  "notes": "清理冗余代码；系统美化仅保留「设置」；修复设置卡顿"
 }
